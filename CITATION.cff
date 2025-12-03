@@ -1,0 +1,22 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Script de Optimización de Condiciones de Operación en Biorreactor"
+type: software
+authors:
+  - given-names: Diego Daniel # Reemplaza con tu nombre
+    family-names: Granados Avelino# Reemplaza con tu apellido
+    
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey
+
+keywords:
+  - biorreactor
+  - optimización
+  - kla
+  - transferencia de calor
+  - bioprocesos
+license: MIT # Asegúrate de que coincida con tu archivo LICENSE.md
+repository-code: "https://github.com/DiegoGranados-04/Bioreactor-Design-Optimization-Tool/new/main" 
+version: 1.0.1 
+date-released: 2025-12-03 # Fecha de la release
+doi: 10.5281/zenodo.17807722
