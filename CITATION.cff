@@ -4,9 +4,29 @@ message: "If you use this software, please cite it using the metadata from this 
 title: "Script de Optimización de Condiciones de Operación en Biorreactor"
 type: software
 authors:
-  - given-names: Diego Daniel # Reemplaza con tu nombre
-    family-names: Granados Avelino# Reemplaza con tu apellido
-    
+  - given-names: Diego Daniel
+    family-names: Granados Avelino
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey
+  - given-names: Marcos Andrés
+    family-names: López Luna
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey # O su afiliación
+  - given-names: Iker René
+    family-names: Ramírez Román
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey 
+  - given-names: Sarah Yael
+    family-names: Estrada Briseño
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey 
+  - given-names: Leonardo
+    family-names: Castillo Pomares
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey 
+  - given-names: Isabel
+    family-names: López Tagle Oñate 
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey 
+  - given-names: Josué Naim
+    family-names: Toral Patraca
+    affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey 
+  - given-names: Abner 
+    family-names: Flores Morales
     affiliation: Instituto Tecnológico y de Estudios Superiores de Monterrey
 
 keywords:
