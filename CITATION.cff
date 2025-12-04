@@ -37,6 +37,6 @@ keywords:
   - bioprocesos
 license: MIT # Asegúrate de que coincida con tu archivo LICENSE.md
 repository-code: "https://github.com/DiegoGranados-04/Bioreactor-Design-Optimization-Tool/new/main" 
-version: 1.0.1 
+version: 1.0.2 
 date-released: 2025-12-03 # Fecha de la release
 doi: 10.5281/zenodo.17807722
